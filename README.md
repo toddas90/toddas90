@@ -7,7 +7,7 @@ Software Engineer
 WSU class of 2022. Most of my experience is with low level languages, but I have been branching out and working on web dev projects recently.
 
 * 🌍  I'm based in Seattle, WA
-* 🧠  I'm learning F# and Rust
+* 🧠  I'm learning Rust and React
 
 ### Skills
 
